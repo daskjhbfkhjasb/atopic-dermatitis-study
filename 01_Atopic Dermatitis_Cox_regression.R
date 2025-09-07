@@ -6,18 +6,6 @@
 # Analysis includes:
 #   1. Overall population analysis
 #   2. Gender-stratified analysis
-#
-# Excluded Cancer Types:
-#   - C27, C28, C29, C35, C36, C59, C87, C89
-#
-# Confounders Adjusted For:
-#   1. Age
-#   2. Sex
-#   3. Smoking status
-#   4. Body type distribution
-#   5. Townsend deprivation index (TDI) group
-#   6. Diastolic blood pressure (DBP)
-#
 # Output:
 #   - Hazard Ratios (HR)
 #   - 95% Confidence Intervals (CI)
